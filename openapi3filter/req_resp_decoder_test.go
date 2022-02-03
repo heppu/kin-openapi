@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/heppu/kin-openapi/openapi3"
 	"github.com/stretchr/testify/require"
 )
 

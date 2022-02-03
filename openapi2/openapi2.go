@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/getkin/kin-openapi/jsoninfo"
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/heppu/kin-openapi/jsoninfo"
+	"github.com/heppu/kin-openapi/openapi3"
 )
 
 type Swagger struct {
